@@ -54,7 +54,7 @@ class Game {
   constructor() {
     this.isOver = false;
   }
-
+//thsda
   declareWinner(isOver, p1, p2) {
     let message;
 
